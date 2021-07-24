@@ -16,3 +16,4 @@
 15) [V 10]Convert folder into package type __init__.py in app folder, this is like a shortcut folder to find new urls
 16) [V 11]To access admin http://127.0.0.1:8000/admin If not able to access add path('admin/', admin.site.urls), in urls.py
 17) on terminal type--> manage.py createsuperuser  
+18) [V 14]To create Table use-->python manage.py makemigrations 
