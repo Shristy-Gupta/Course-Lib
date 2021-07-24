@@ -1,4 +1,4 @@
-#Virtual Environment setup open command prompt:
+# Virtual Environment setup open command prompt:
 1) Go to the directory and create the folders, Use mkdir for the same
 2) Then to install vm --> pip install virtualenv
 3) Virtualenv venv--> ([Response]created virtual environment CPython3.8.8.final.0-64 in 3391ms) and venv folder will be created 
