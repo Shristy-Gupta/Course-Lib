@@ -6,3 +6,5 @@
 5) Come back to the Course-lib Folder
 6) To install Django--> pip install django
 7) To confirm if the installation is successfull type-->django-admin ([Response] Available subcommands)
+8) To create start project-->django-admin startproject course_library .
+9) To run the vm-->python manage.py runserver
